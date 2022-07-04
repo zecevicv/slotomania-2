@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="24" viewBox="0 0 30 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 21px;
+        font-family: Neuron-Black, Neuron;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <text id="ssg" class="cls-1" transform="translate(0 19)"><tspan x="0" y="0">SSG</tspan></text>
+</svg>
